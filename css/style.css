@@ -1203,9 +1203,7 @@ justify-content: center;
   margin-top: 21px;
 }
 
-.picture {
 
-}
 
    .category {
     margin-top: 16px;
@@ -1234,6 +1232,7 @@ justify-content: center;
   .search {
     width: 282px;
   }
+
   .bth {
   width: 47px;
   height: 46px;
@@ -1257,8 +1256,8 @@ justify-content: center;
    .tags {
   width: 331px;
   display: flex;
-
  }
+
  .tags-text {
   padding: 7px 12px;
  }
