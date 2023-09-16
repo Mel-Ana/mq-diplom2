@@ -277,8 +277,6 @@ ul, li, a {
   align-items: flex-start;
 }
 
-.title-category {
-}
 
 .picture {
   display: inline-block;
@@ -770,6 +768,7 @@ ul, li, a {
   background-image: url(https://netology-code.github.io/html-2-diploma/sources/images/social/001-dribbble.svg);
   width: 21px;
   height: 21px;
+  margin: 0;
 }
 
 .visually-hidden {
@@ -787,6 +786,7 @@ ul, li, a {
   background-image: url(https://netology-code.github.io/html-2-diploma/sources/images/social/002-pinterest.svg);
   width: 21px;
   height: 21px;
+  margin: 0;
 }
 
 .footer-tamblr {
